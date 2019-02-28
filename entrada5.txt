@@ -1,0 +1,9 @@
+costo=si
+a b:3
+b c:4 e:1 f:2
+c d:3 g:3
+d c:5 h:5
+e a:2 f:2
+f g:4
+g f:7 h:7
+h h:1
